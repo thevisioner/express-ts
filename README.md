@@ -1,6 +1,6 @@
-# Express with TypeScript starter project
+# Basic Express with TypeScript starter
 
-Starter project for building an Express app with TypeScript.
+A very basic starter for building an Express app with TypeScript.
 
 ## Getting Started
 
